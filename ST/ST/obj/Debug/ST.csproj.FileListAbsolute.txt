@@ -1,0 +1,89 @@
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Anasayfa.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Properties.Resources.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe.config
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\bin\Debug\ST.pdb
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.exe
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.pdb
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriEkle.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriListele.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.KategoriEkle.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MarkaEkle.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunEkle.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunListele.resources
+C:\Users\USER\Desktop\! ! ! Stok Takip\ST\ST\obj\Debug\ST.SatisListele.resources
+E:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe.config
+E:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe
+E:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.pdb
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.AssemblyReference.cache
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Anasayfa.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MarkaEkle.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.KategoriEkle.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriEkle.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriListele.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Properties.Resources.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.SatisListele.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunEkle.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunListele.resources
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.exe
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.pdb
+E:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.SatısForm.resources
+D:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe.config
+D:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.exe
+D:\! ! ! Stok Takip\ST\ST\bin\Debug\ST.pdb
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.AssemblyReference.cache
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Anasayfa.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.SatısForm.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MarkaEkle.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.KategoriEkle.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriEkle.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.MusteriListele.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.Properties.Resources.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.SatisListele.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunEkle.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.UrunListele.resources
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.exe
+D:\! ! ! Stok Takip\ST\ST\obj\Debug\ST.pdb
+F:\Stok Takip\ST\ST\obj\Debug\ST.csproj.AssemblyReference.cache
+F:\Stok Takip\ST\ST\obj\Debug\ST.Anasayfa.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.SatısForm.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.MarkaEkle.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.KategoriEkle.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.MusteriEkle.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.MusteriListele.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.Properties.Resources.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.SatisListele.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.UrunEkle.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.UrunListele.resources
+F:\Stok Takip\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+F:\Stok Takip\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+F:\Stok Takip\ST\ST\obj\Debug\ST.exe
+F:\Stok Takip\ST\ST\obj\Debug\ST.pdb
+F:\Stok Takip\ST\ST\bin\Debug\ST.exe.config
+F:\Stok Takip\ST\ST\bin\Debug\ST.exe
+F:\Stok Takip\ST\ST\bin\Debug\ST.pdb
+F:\Projeler\Stok Takip\ST\ST\bin\Debug\ST.exe.config
+F:\Projeler\Stok Takip\ST\ST\bin\Debug\ST.exe
+F:\Projeler\Stok Takip\ST\ST\bin\Debug\ST.pdb
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.csproj.AssemblyReference.cache
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.Anasayfa.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.SatısForm.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.MarkaEkle.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.KategoriEkle.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.MusteriEkle.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.MusteriListele.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.Properties.Resources.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.SatisListele.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.UrunEkle.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.UrunListele.resources
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.csproj.GenerateResource.cache
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.csproj.CoreCompileInputs.cache
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.exe
+F:\Projeler\Stok Takip\ST\ST\obj\Debug\ST.pdb
